@@ -30,9 +30,9 @@ Project Structure
 📁 calculator-project
 
 ├── index.html
-|
+
 ├── style.css
-|
+
 └── index.js
 
 ---
